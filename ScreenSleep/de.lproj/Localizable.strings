@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ScreenSleep
+
+  Created by Robert Gerlach on 24.06.19.
+  Copyright © 2019 Robert Gerlach. All rights reserved.
+*/
+
+"Sleep Screen" = "Bildschirm aus";
+"Quit" = "Beenden";
